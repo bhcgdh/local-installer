@@ -2,3 +2,13 @@ __pycache__/
 *.py[cod]
 ~$*.xlsx
 *.tmp
+*.exe
+*.msi
+*.iso
+*.dmg
+*.pkg
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
